@@ -13,7 +13,6 @@ our %SPEC;
 $SPEC{':package'} = {
     v => 1.1,
     summary => 'Example for invalid Rinci metadata',
-_
 };
 
 $SPEC{':foo'} = {
