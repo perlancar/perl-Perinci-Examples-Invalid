@@ -74,6 +74,11 @@ $SPEC{'unknown_prop'} = {
 1;
 # ABSTRACT:
 
+=head1 DESCRIPTION
+
+This module contains various examples of invalid Rinci metadata.
+
+
 =head1 SEE ALSO
 
 L<Perinci>
